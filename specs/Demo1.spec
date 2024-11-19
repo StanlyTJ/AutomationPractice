@@ -9,5 +9,5 @@ Creating the New user in Applications
 * Close Browser
 
 ##Scenario
-summa
+Create New user
 * hello
